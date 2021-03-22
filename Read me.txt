@@ -1,0 +1,9 @@
+Login Details 
+
+For User :
+Username : user@gmail.com
+Password : 12345678
+
+For Admin :
+User Name : admin
+Password : admin@123
